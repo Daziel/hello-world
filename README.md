@@ -1,2 +1,2 @@
 # hello-world
-Intro Repository
+I'm Isaac, I'm learning how to use github.
